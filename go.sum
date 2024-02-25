@@ -1,0 +1,12 @@
+github.com/rwxrob/fn v0.3.3 h1:ymRQGWDhrrvoHKXLJ4WZlgI2qrC7gMOotowQMGvwmVQ=
+github.com/rwxrob/fn v0.3.3/go.mod h1:omPqOqEB+dDna09z5pi5YFxq4IZqDvv3wFPUCES5LvY=
+github.com/rwxrob/fn v0.4.0 h1:lUZEkELSFAlPhzrkNhgB/xoTkz9tv5op4g0QfggSZFg=
+github.com/rwxrob/fn v0.4.0/go.mod h1:omPqOqEB+dDna09z5pi5YFxq4IZqDvv3wFPUCES5LvY=
+github.com/rwxrob/pegn v0.1.0 h1:z6x1gRibEW3pG89Qs8amkRHA/UnNNNYOXAacoEp9aFU=
+github.com/rwxrob/pegn v0.1.0/go.mod h1:TyD3XS8ddVucs2gwMr1VhB2HbHiruzj6Ub67RZGTfMA=
+github.com/rwxrob/pegn v0.2.1 h1:roE+SkNl66SLJkeEHowuds+0lUOjSlTHE8IDJuZZUNs=
+github.com/rwxrob/pegn v0.2.1/go.mod h1:TyD3XS8ddVucs2gwMr1VhB2HbHiruzj6Ub67RZGTfMA=
+github.com/rwxrob/structs v0.6.0 h1:t8JVd/Pee1OGaXgT6QYmGed470C9vOw6scdH8Cr5LPg=
+github.com/rwxrob/structs v0.6.0/go.mod h1:txMfzPfEiIDNM5bwhzUqxr/1QQ3ekOuj3KLT8Nt1fA0=
+github.com/rwxrob/to v0.12.1 h1:2x1SgNK2ixE7FhbDFK2fzlx3Y3qPIBcSFm/jivUzOQM=
+github.com/rwxrob/to v0.12.1/go.mod h1:8+uSoxMWfTSY/KU57db87hWGZGsiVW0uSDZd7NAgInI=
